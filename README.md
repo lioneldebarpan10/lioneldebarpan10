@@ -36,8 +36,6 @@
 - Naukri Code: *https://www.naukri.com/code360/profile/9cae9085-adf5-431c-a22f-b0da1434c4b2*
 
 ⭐ If you like my work, consider starring my repositories!
-
-<!  --
   
 Here are some ideas to get you started:
 
@@ -46,4 +44,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Full Stack Projects.
 - 💬 Ask me about ...
 - 📫 How to reach me: dbrpn07cse@gmail.com
--->
+
