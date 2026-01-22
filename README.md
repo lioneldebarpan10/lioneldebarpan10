@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🔭 Currently building MERN stack projects
 - 🌱 Learning Backend Development & System Design
-- 🧠 115+ days LeetCode consistency
+- 🧠 230+ days LeetCode consistency , Contest Rating - 1600+
 - 🎯 Goal: SDE role at a product-based company
 
 ---
@@ -17,35 +17,33 @@
 ## 🛠 Tech Stack
 **Frontend:** React, HTML, CSS, JavaScript, Tailwind  
 **Backend:** Node.js, Express  
-**Database:** MongoDB  
+**Database:** MongoDB , MySQL
 **Tools:** Git, GitHub, Postman
 
 ---
 
 ## 📌 Featured Projects
 - AI Background Removal (MERN)
-- Sales Dashboard (MERN)
+- AI Resume Builder (MERN)
+- QuickStay (MERN)
 - Authentication APIs (JWT)
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: *(add link)*
-- LeetCode: *(add link)*
+- LinkedIn: *https://www.linkedin.com/in/debarpan-deb-211a842aa/*
+- LeetCode: *https://leetcode.com/u/debarpandeb_10/*
+- Naukri Code: *https://www.naukri.com/code360/profile/9cae9085-adf5-431c-a22f-b0da1434c4b2*
 
 ⭐ If you like my work, consider starring my repositories!
 
-<!--
-**lioneldebarpan10/lioneldebarpan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!  --
+  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my Backend skills 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on Full Stack Projects.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: dbrpn07cse@gmail.com
 -->
