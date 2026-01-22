@@ -15,10 +15,10 @@
 ---
 
 ## 🛠 Tech Stack
-**Language:** C, C++, Java, JavaScript
-**Frontend:** React.js, TailwindCSS, BootStrap
+**Language** C, C++, Java, Javascript
+**Frontend:** React, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express  
-**Database:** MongoDB , MySQL
+**Database:** MongoDB  
 **Tools:** Git, GitHub, Postman
 
 ---
