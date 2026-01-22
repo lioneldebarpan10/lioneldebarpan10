@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there I'm Debarpan👋
 
 
-🎓 CSE Undergraduate | Full Stack Developer (MERN)  
+🎓 CSE Undergraduate (Pre-Final Year) | Full Stack Developer (MERN)  
 💻 Interested in Backend, APIs, and Databases  
 
 ---
