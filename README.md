@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Backend skills 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on Full Stack Projects.
-- 💬 Ask me about ...
+- 💬 Reachme out for any kind of collaboration 
 - 📫 How to reach me: dbrpn07cse@gmail.com
 
