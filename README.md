@@ -23,7 +23,7 @@
 ---
 
 ## 📌 Featured Projects
-- AI Background Removal (MERN)
+- AI Background Removal (MERN) - *https://bgremoval-mern.vercel.app/*
 - AI Resume Builder (MERN)
 - QuickStay (MERN)
 - Authentication APIs (JWT)
